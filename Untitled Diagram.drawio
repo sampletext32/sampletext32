@@ -1,1 +1,362 @@
-<mxfile host="app.diagrams.net" modified="2021-03-02T22:07:43.193Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 OPR/74.0.3911.107 (Edition Yx 05)" version="14.4.3" etag="AOBvcgElK4-ZHX5R66Y3" type="github"><diagram id="RLk9HcURx6ac_PW08_9W">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-02T22:07:51.799Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 OPR/74.0.3911.107 (Edition Yx 05)" etag="BWXTyYXamYVWe1yXo2Dt" version="14.4.3" type="github">
+  <diagram id="RLk9HcURx6ac_PW08_9W" name="Page-1">
+    <mxGraphModel dx="2209" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AmakGCmeluL_DyTMcRnK-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-4" target="AmakGCmeluL_DyTMcRnK-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-4" target="AmakGCmeluL_DyTMcRnK-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-4" target="AmakGCmeluL_DyTMcRnK-87">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1010" y="25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-4" value="Подразделение" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1073" y="75" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-5" value="Название" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1133" y="135" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-6" value="Id" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="135" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-10" target="AmakGCmeluL_DyTMcRnK-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-10" target="AmakGCmeluL_DyTMcRnK-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-10" target="AmakGCmeluL_DyTMcRnK-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-10" value="Связь Подразделений" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1312" y="-25" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-11" value="IdРодитель" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1312" y="35" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-12" value="Id" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="1202" y="35" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-13" value="IdПодразделения" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1422" y="35" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-17" target="AmakGCmeluL_DyTMcRnK-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-17" target="AmakGCmeluL_DyTMcRnK-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-16" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-17" target="AmakGCmeluL_DyTMcRnK-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-17" value="Компьютер" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="663.75" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-18" value="IdКомнаты" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="773.75" y="280" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-19" value="Id" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="553.75" y="280" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-20" value="IdПодразделения" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="663.75" y="280" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-23" target="AmakGCmeluL_DyTMcRnK-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-23" target="AmakGCmeluL_DyTMcRnK-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-23" value="Комната" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="323.75" y="10" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-24" value="Номер" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="383.75" y="70" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-25" value="Id" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="263.75" y="70" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-31" target="AmakGCmeluL_DyTMcRnK-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-27" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-31" target="AmakGCmeluL_DyTMcRnK-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-31" target="AmakGCmeluL_DyTMcRnK-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-31" target="AmakGCmeluL_DyTMcRnK-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-30" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-31" target="AmakGCmeluL_DyTMcRnK-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-31" value="Элемент Комплектующего" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="113.75" y="630" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-32" value="IdПоставщика" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="330.25" y="710" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-33" value="Id" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="-26.25" y="690" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-34" value="IdКомплектующего" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="113.75" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-35" value="Дата Покупки" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="23.75" y="750" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-36" value="Срок Гарантии" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="233.75" y="750" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-37" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-42" target="AmakGCmeluL_DyTMcRnK-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-42" target="AmakGCmeluL_DyTMcRnK-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-39" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-42" target="AmakGCmeluL_DyTMcRnK-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-40" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-42" target="AmakGCmeluL_DyTMcRnK-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-41" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-42" target="AmakGCmeluL_DyTMcRnK-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-42" value="Комплектующее" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="525.25" y="620" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-43" value="Гарантийные&lt;br&gt;Обстоятельства" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="669.75" y="680" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-44" value="Id" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="436.75" y="750" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-45" value="Производитель" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="525.25" y="710" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-46" value="Название" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="419.75" y="670" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-47" value="Тип" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="645.25" y="750" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-48" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-51" target="AmakGCmeluL_DyTMcRnK-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-49" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-51" target="AmakGCmeluL_DyTMcRnK-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-50" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-51" target="AmakGCmeluL_DyTMcRnK-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-51" value="Поставщик" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="930" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-52" value="Название" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="990" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-53" value="Id" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="990" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-54" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-58" target="AmakGCmeluL_DyTMcRnK-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-55" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-58" target="AmakGCmeluL_DyTMcRnK-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-56" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-58" target="AmakGCmeluL_DyTMcRnK-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-57" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-58" target="AmakGCmeluL_DyTMcRnK-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-58" value="Элемент ПО" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="839.5" y="960" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-59" value="IdПоставщика" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="979.5" y="1020" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-60" value="Id" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="699.5" y="1020" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-61" value="IdПО" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="789.5" y="1050" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-62" value="Дата Истечения Лицензии" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="899.5" y="1080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-63" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-67" target="AmakGCmeluL_DyTMcRnK-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-64" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-67" target="AmakGCmeluL_DyTMcRnK-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-65" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-67" target="AmakGCmeluL_DyTMcRnK-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-66" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-67" target="AmakGCmeluL_DyTMcRnK-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-67" value="ПО" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1189.5" y="1000" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-68" value="Id" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="1049.5" y="1060" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-69" value="Производитель" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1209.5" y="1080" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-70" value="Название" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1119.5" y="1120" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-71" value="Тип" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1339" y="1060" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-72" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-75" target="AmakGCmeluL_DyTMcRnK-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-73" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-75" target="AmakGCmeluL_DyTMcRnK-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-74" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-75" target="AmakGCmeluL_DyTMcRnK-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-75" value="Связь Компьютер - &lt;br&gt;Элемент Комплектующего" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="370.75" y="410" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-76" value="IdКомпьютера" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="413.75" y="470" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-77" value="Id" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="298.75" y="470" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-78" value="IdКомплектующего" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="523.75" y="470" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-79" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-82" target="AmakGCmeluL_DyTMcRnK-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-80" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-82" target="AmakGCmeluL_DyTMcRnK-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-81" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-82" target="AmakGCmeluL_DyTMcRnK-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-82" value="Связь Компьютер - &lt;br&gt;Элемент ПО" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1259" y="400" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-83" value="IdКомпьютера" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1302" y="460" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-84" value="Id" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="1182" y="460" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-85" value="IdПО" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1412" y="460" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-86" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-87" target="AmakGCmeluL_DyTMcRnK-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-87" value="Владеет" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="823.75" y="-10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-88" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-90" target="AmakGCmeluL_DyTMcRnK-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-89" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-90" target="AmakGCmeluL_DyTMcRnK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-90" value="Связывает" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1233" y="-115" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-91" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-93" target="AmakGCmeluL_DyTMcRnK-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-92" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-93" target="AmakGCmeluL_DyTMcRnK-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-93" value="Хранит" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="493.75" y="-30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-94" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-96" target="AmakGCmeluL_DyTMcRnK-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-95" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" target="AmakGCmeluL_DyTMcRnK-42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="406.74999999999955" y="590" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-96" value="Представляет" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="310.25" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-97" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-99" target="AmakGCmeluL_DyTMcRnK-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-98" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-99" target="AmakGCmeluL_DyTMcRnK-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-99" value="Поставляет" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-146.25" y="525" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-100" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-102" target="AmakGCmeluL_DyTMcRnK-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-101" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-102" target="AmakGCmeluL_DyTMcRnK-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-102" value="Представляет" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="959.5" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-103" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-104" target="AmakGCmeluL_DyTMcRnK-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-104" value="Поставляет" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="400.75" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-105" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;elbow=vertical;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-107" target="AmakGCmeluL_DyTMcRnK-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-106" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-107" target="AmakGCmeluL_DyTMcRnK-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-107" value="Связывает" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="483.75" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-108" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-110" target="AmakGCmeluL_DyTMcRnK-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-109" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-110" target="AmakGCmeluL_DyTMcRnK-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-110" value="Связывает" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="213.75" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-111" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-113" target="AmakGCmeluL_DyTMcRnK-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-112" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-113" target="AmakGCmeluL_DyTMcRnK-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-113" value="Связывает" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="813.75" y="135" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-114" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-116" target="AmakGCmeluL_DyTMcRnK-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-115" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="AmakGCmeluL_DyTMcRnK-116" target="AmakGCmeluL_DyTMcRnK-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AmakGCmeluL_DyTMcRnK-116" value="Связывает" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
