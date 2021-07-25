@@ -1,10 +1,10 @@
 ### Hi 👋, I'm Bird Egop
-I'm 20 years old and I'm from Russia. 
+I'm 21 years old and I'm from Russia. 
 
-Skills: C# / ASP.NET / T-SQL (MS SQL, MySQL) / Entity Framework / Java / Unity / HTML / JS / CSS / PHP
+Skills: C# / ASP.NET / T-SQL (MS SQL, MySQL, PostgreSQL) / Entity Framework / Java / Unity / HTML / JS / CSS / PHP
 
 - 🔭 I’m currently working on [Akiana](http://akiana.io) and [7CUT](https://7cut.ru)
-- 🌱 I’m currently learning ASP.NET Core, EntityFramework Core, Python 
+- 🌱 I’m currently learning ASP.NET Core, EntityFramework Core, Clean Architecture
 - 🤔 I’m looking for code reviews and collabs
 - 🌠 I'm interested in [RPCS3](https://github.com/rpcs3/RPCS3), [Ixmilia.Dxf](https://github.com/ixmilia/dxf), [SFML](https://github.com/SFML/SFML.Net)
 - 📽 I make cool Lyrics Videos in Premiere Pro (check out my Instagram and Youtube)
