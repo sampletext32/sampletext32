@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Bird Egop
-I'm 21 years old and I'm from Russia. 
+I'm 22 years old and I'm from Russia. 
 
 Skills: C# / ASP.NET / T-SQL (MS SQL, MySQL, PostgreSQL) / Entity Framework / Java / Unity / HTML / JS / CSS / PHP
 
