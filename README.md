@@ -1,18 +1,16 @@
 ### Hi 👋, I'm Bird Egop
-I'm 22 years old and I'm from Russia. 
+I'm 23 years old and I'm from Russia. 
 
 Skills: C# / ASP.NET / T-SQL (MS SQL, MySQL, PostgreSQL) / Entity Framework / Java / Unity / HTML / JS / CSS / PHP
 
-- 🔭 I’m currently working on **Akiana** [Android](https://play.google.com/store/apps/details?id=com.ougi.akiana), [iOS](https://apps.apple.com/ru/app/акиана-роллы-суши-бар/id1581313806)
-- I'm currently developing my own video editor [SCVE](https://github.com/SCVE/SCVE)
-- 🌱 I’m currently learning ASP.NET Core, OpenGL, EntityFramework Core
-- 🤔 I’m looking for code reviews and collabs
-- 🌠 I'm interested in [RPCS3](https://github.com/rpcs3/RPCS3), [Ixmilia.Dxf](https://github.com/ixmilia/dxf), [SFML](https://github.com/SFML/SFML.Net)
+- 🔭 I’m currently working in Ozon Technologies.
+- 🌱 I've created backend for **Akiana** [Android](https://play.google.com/store/apps/details?id=com.ougi.akiana), [iOS](https://apps.apple.com/ru/app/акиана-роллы-суши-бар/id1581313806)
+- 🤔 I'm attempted to develop my own video editor [SCVE](https://github.com/SCVE/SCVE)
 - 📽 I make cool Lyrics Videos in Premiere Pro (check out my Instagram and Youtube)
 
 I mainly use my laptop with
-* Intel Core i5 10210U
-* NVidia GeForce MX250 2Gb (25Wh)
+* Intel Core i5 9300H
+* NVidia GeForce RTX 2060
 * 16 Gb 2666Mhz RAM
 * 512 Gb Samsung Evo Plus SSD
 
