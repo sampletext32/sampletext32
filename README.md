@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Bird Egop
 I'm 23 years old and I'm from Russia. 
 
-Skills: C# / ASP.NET / T-SQL (MS SQL, MySQL, PostgreSQL) / Entity Framework / Java / Unity / HTML / JS / CSS / PHP
+Skills: C# / ASP.NET Core / T-SQL (MS SQL, MySQL, PostgreSQL) / Docker / Redis / Kafka / Angular / React
 
 - 🔭 I’m currently working in Ozon Technologies.
 - 🌱 I've created backend for **Akiana** [Android](https://play.google.com/store/apps/details?id=com.ougi.akiana), [iOS](https://apps.apple.com/ru/app/акиана-роллы-суши-бар/id1581313806)
