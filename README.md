@@ -5,7 +5,7 @@ Skills: C# / ASP.NET / T-SQL (MS SQL, MySQL, PostgreSQL) / Entity Framework / Ja
 
 - 🔭 I’m currently working in Ozon Technologies.
 - 🌱 I've created backend for **Akiana** [Android](https://play.google.com/store/apps/details?id=com.ougi.akiana), [iOS](https://apps.apple.com/ru/app/акиана-роллы-суши-бар/id1581313806)
-- 🤔 I'm attempted to develop my own video editor [SCVE](https://github.com/SCVE/SCVE)
+- 🤔 I attempted to develop my own video editor [SCVE](https://github.com/SCVE/SCVE) but didn't proceed very far.
 - 📽 I make cool Lyrics Videos in Premiere Pro (check out my Instagram and Youtube)
 
 I mainly use my laptop with
