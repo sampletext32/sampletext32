@@ -1,8 +1,6 @@
 ### Hi 👋, I'm Bird Egop
 I'm 23 years old and I'm from Russia. 
 
-Hi 👋, I'm Egor, I'm from Russia.
-
 Area of expertize: C# / ASP.NET Core / PostgreSQL / Docker / Redis / Kafka / Angular / React
 
 - 🔭 I’m currently working in [OZON](https://www.ozon.ru/).
